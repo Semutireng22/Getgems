@@ -4,16 +4,25 @@ This script automates token claiming and task completion for the GetGems UGD pla
 
 ## Features
 
-- **Auto Claim**: Automatically claims tokens every 6 hours.
-- **Auto Complete Tasks**: Checks and completes tasks automatically.
+- **Auto Claim**
+- **Auto Complete Tasks**
+- **Only use userID**
+
+# Make sure you computer was installed python and git.
+
+Python : [https://python.org](https://python.org)
+Git : [https://git-scm.com/](https://git-scm.com/)
+
+## First Register
+Register : [getGems Bot](https://t.me/getgamestgbot?start=917483523)
 
 ## Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Semutireng22/getgems-ugd-bot.git
-   cd getgems-ugd-bot
+   git clone https://github.com/Semutireng22/Getgems.git
+   cd Getgems
    ```
 
 2. Install dependencies:
@@ -41,3 +50,8 @@ This script automates token claiming and task completion for the GetGems UGD pla
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+=====================================================================
+
+# JOIN MY CHANNEL
+- [UGD AIRDROP](https://t.me/ugdairdrop)
